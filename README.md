@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Oswaldo Corona</h1>
-<h3 align="center">Apasionado por el FrontEnd y diseño de pagina Webs</h3>
+<h3 align="center">Apasionado por el FrontEnd / Diseño de pagina Webs</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e474hznk6ihvpkg4lxca6d4xmwwrwelth1qwmy6xytn&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oswaaaldo6&label=Profile%20views&color=0e75b6&style=flat" alt="oswaaaldo6" /> </p>
