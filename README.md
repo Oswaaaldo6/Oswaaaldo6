@@ -6,7 +6,9 @@
 
 - 🔭 Estoy estudiando en la **Universidad Veracruzana**
 
-- 🌱 Estoy aprendiendo a manejar **SpringBoot en Netbeans**
+- 🌱 Apasianado por la creacon de paginas WEB
+
+- 🥇 Aprendiz de todo, sin miedo a que me corrigan!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
