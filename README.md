@@ -6,9 +6,9 @@
 
 - 🔭 Estoy estudiando en la **Universidad Veracruzana**
 
-- 🌱 Apasianado por la creacon de paginas WEB
+- 🌱 Creativo en la creacion de paginas WEB
 
-- 🥇 Aprendiz de todo, sin miedo a que me corrigan!
+- 🥇  Aprendiz de todo, sin miedo a que me corrigan!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
